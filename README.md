@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @reidarsollid
-- 👀 I’m interested in Rust, Go-lang
+- 👀 I’m interested in Rust, Rune and Gleam
 - 🌱 I’m currently learning Juniper GraphQL for Rust
-- 💞️ I’m looking to collaborate on BDD frameworks for Rust
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on .....
+- 📫 How to reach me rsollid@gmail.com
 
 <!---
 reidarsollid/reidarsollid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
