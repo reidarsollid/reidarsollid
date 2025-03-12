@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reidarsollid
 - 👀 I’m interested in Rust, Rune and Gleam
-- 🌱 I’m currently learning Juniper GraphQL for Rust
+- 🌱 I’m currently learning Bevy ECS 
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me rsollid@gmail.com
 
